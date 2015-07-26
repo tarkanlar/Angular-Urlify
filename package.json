@@ -1,0 +1,29 @@
+{
+  "name": "angular-urlify",
+  "version": "1.0.1",
+  "description": "Filter to create better seo urls and slugs with AngularJS based on Django Urlify",
+  "main": "angular-urlify-filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benoror/angular-urlify.git"
+  },
+  "keywords": [
+    "angular",
+    "urlify",
+    "filter",
+    "django"
+  ],
+  "authors": [
+  	"Tarkan Anlar",
+    "Murat Çorlu <muratcorlu@gmail.com>",
+  	"Benjamin Orozco <benoror@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benoror/angular-urlify/issues"
+  },
+  "homepage": "https://github.com/benoror/angular-urlify"
+}
