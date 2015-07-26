@@ -1,6 +1,6 @@
 {
   "name": "angular-urlify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Filter to create better seo urls and slugs with AngularJS based on Django Urlify",
   "main": "angular-urlify-filter.js",
   "scripts": {
